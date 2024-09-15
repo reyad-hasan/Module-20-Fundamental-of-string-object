@@ -15,8 +15,8 @@ console.log(numbers)
 // string is immutable --> not changeable
 // array is mutable --> you can change the array elements
 const capital = 'Dhaka';
-// console.log(capital.length);
-// console.log(capital[3]);
+console.log(capital.length);
+console.log(capital[3]);
 console.log(capital);
 capital[0] = 'F';
 console.log(capital);
